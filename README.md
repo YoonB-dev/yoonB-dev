@@ -1,7 +1,5 @@
 ## Hi I'm YoonBro
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoonB-dev&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
-</div>
 
 **Familiar with**
 
@@ -14,4 +12,10 @@
 
 **Interested in**
 
-<img src="https://github-readme-stats.vercel.app/api?username=yoonB-dev&show_icons=true"/>
+<p>
+    <!-- <img width="56.1%" alt="wakatimestat" src="https://user-images.githubusercontent.com/48207131/166133232-0d06f860-6d55-419c-89e3-6f28fc76467c.svg" /> -->
+    <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoonB-dev&layout=compact&theme=dark&hide_border=true&langs_count=6&v=2" />
+    <img width="38%" src="https://github-readme-stats.vercel.app/api?username=yoonB-dev&theme=dark&hide_border=true&count_private=true"/>
+</p>
+</div>
+
