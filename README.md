@@ -8,6 +8,7 @@
 <a href="https://www.unrealengine.com/ko/unreal-engine-5"><img src="https://img.shields.io/badge/unreal-000000?style=for-the-badge&logo=unrealengine&logoColor=#0E1128" height="36"/></a>
 <a href="https://www.unrealengine.com/ko/unreal-engine-5"><img src="https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=#3776AB" height="36"/></a>
 <a href="https://www.unrealengine.com/ko/unreal-engine-5"><img src="https://img.shields.io/badge/java-000000?style=for-the-badge&logo=java&logoColor=white" height="36"/></a>
+<a href=""><img src="https://img.shields.io/badge/django-000000?style=for-the-badge&logo=django&logoColor=white" height="36"/></a>
 
 
 
