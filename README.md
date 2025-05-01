@@ -3,18 +3,29 @@
 
 
 **Familiar with**
-
-<a href="https://unity.com/kr/"><img src="https://img.shields.io/badge/unity-000000?style=for-the-badge&logo=unity&logoColor=#FFFFFF" height="36"/></a>
-<a href="https://www.unrealengine.com/ko/unreal-engine-5"><img src="https://img.shields.io/badge/unreal-000000?style=for-the-badge&logo=unrealengine&logoColor=#0E1128" height="36"/></a>
-<a href="https://www.python.org/"><img src="https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=#3776AB" height="36"/></a>
-<a href="https://www.java.com/ko/"><img src="https://img.shields.io/badge/java-000000?style=for-the-badge&logo=java&logoColor=white" height="36"/></a>
-<a href="https://docs.djangoproject.com/ko/5.1/intro/"><img src="https://img.shields.io/badge/django-000000?style=for-the-badge&logo=django&logoColor=white" height="36"/></a>
-
-
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,django,c,unity,java,react,mysql,docker&theme=dark&perline=8" />
+  </a>
+</p>
 
 **Interested in**
 
-<a href="https://www.ibm.com/quantum/qiskit"><img src="https://img.shields.io/badge/qiskit-000000?style=for-the-badge&logo=qiskit&logoColor=white" height="36"/></a>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=unreal&theme=dark&perline=8" />
+  </a>
+</p>
+
+
+**More about me**
+
+[![gmail](https://skillicons.dev/icons?i=gmail&theme=dark)](mailto:yoonbro.developer@gmail.com)
+
+<br/>
+
+## **📝 My Blog:**
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=yoonbro&color=dark)](https://velog.io/@yoonbro/posts)
 
 <p>
 <!--     <img width="56.1%" alt="wakatimestat" src="https://user-images.githubusercontent.com/48207131/166133232-0d06f860-6d55-419c-89e3-6f28fc76467c.svg" /> -->
