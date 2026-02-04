@@ -5,7 +5,7 @@
 **Familiar with**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,c,unity,java,react,mysql,docker&theme=dark&perline=8" />
+    <img src="https://skillicons.dev/icons?i=unity,cs,cpp,python,django,java,spring,mysql,docker,vscode,redis,postman&theme=dark&perline=8" />
   </a>
 </p>
 
@@ -13,7 +13,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=unreal&theme=dark&perline=8" />
+    <img src="https://skillicons.dev/icons?i=unreal,blender&theme=dark&perline=8" />
   </a>
 </p>
 
