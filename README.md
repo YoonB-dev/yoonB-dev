@@ -1,22 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&&&color=add8e6&height=200&section=header&text=Hello,%20I'm%20Yoon&fontSize=36&animation=fadeIn&fontColor=fafafa)
 
-
-
-**Familiar with**
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=unity,cs,cpp,python,django,java,spring,mysql,docker,vscode,redis,postman&theme=dark&perline=8" />
-  </a>
-</p>
-
-**Interested in**
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=unreal,blender&theme=dark&perline=8" />
-  </a>
-</p>
-
 ### 🛠 Tech Stack
 
 <table>
